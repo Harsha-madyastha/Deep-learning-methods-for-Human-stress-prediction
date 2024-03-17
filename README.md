@@ -11,7 +11,7 @@ This repository contains the code and Jupyter notebooks developed for my thesis 
 
 - **Multitask_learning**: This folder also contains similar files as the Baseline_code folder, but the code is manipulated to suit and work for multitask learning methods.
 
-- **Jupyter notebooks**: This folder contains various Jupyter notebooks with thesis-related files such as:
+- **Thesis_Project_Files**: This folder contains various Jupyter notebooks with thesis-related files such as:
   - `Data_transformation_for_classification.ipynb`
   - `ECG_feature_extraction.ipynb`
   - `FAUS and spectrogram extraction.ipynb`
